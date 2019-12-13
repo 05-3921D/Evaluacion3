@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "870346717332",
+    "firebase_url": "https://bibliofire-235fb.firebaseio.com",
+    "project_id": "bibliofire-235fb",
+    "storage_bucket": "bibliofire-235fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870346717332:android:2964a0634ae49498921c81",
+        "android_client_info": {
+          "package_name": "chile.maps.biblioteca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870346717332-conf1hpomspauhcj4db6iub8c4allp83.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "chile.maps.biblioteca",
+            "certificate_hash": "dfc8cea9c7b8cdc4f55ce15b7bc293d03c467499"
+          }
+        },
+        {
+          "client_id": "870346717332-c8usbodi4mhcb7e0c6i3m9lv05518dqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_95_H-bHmPRvzPDnu6mvmIILT-nm8qmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870346717332-c8usbodi4mhcb7e0c6i3m9lv05518dqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
