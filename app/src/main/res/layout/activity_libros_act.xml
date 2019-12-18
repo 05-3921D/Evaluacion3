@@ -64,12 +64,12 @@
         android:layout_marginLeft="162dp"
         android:layout_marginEnd="155dp"
         android:layout_marginRight="155dp"
-        android:layout_marginBottom="92dp"
+        android:layout_marginBottom="88dp"
         android:onClick="Calcular"
         android:text="Calcular"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent" />
 
     <LinearLayout
@@ -103,5 +103,17 @@
             android:hint="Costo Prestamo"
             android:inputType="textPersonName" />
     </LinearLayout>
+
+    <ImageButton
+        android:id="@+id/imageButton6"
+        android:layout_width="57dp"
+        android:layout_height="36dp"
+        android:layout_marginBottom="68dp"
+        android:onClick="Mqtt"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/button"
+        app:layout_constraintHorizontal_bias="0.488"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/libros" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

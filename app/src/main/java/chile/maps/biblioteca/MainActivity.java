@@ -115,4 +115,11 @@ public class MainActivity extends AppCompatActivity {
         Intent i = new Intent(this, Location_act.class);
         startActivity(i);
     }
+
+    public void Github(View v)
+    {
+        Intent i = new Intent(this, Github_act.class);
+        startActivity(i);
+    }
+
 }
